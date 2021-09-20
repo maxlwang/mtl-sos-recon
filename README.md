@@ -1,7 +1,7 @@
 ## Multi-Task Learning for Simultaneous Speed-of-Sound Mapping and Image Reconstruction Using Non-Contact Thermoacoustics
 
 ### Multi-input, Multi-task Architecture
-![Architecture](https://raw.githubusercontent.com/maxlwang/mtl-sos-recon/models/mtl_model2.png)
+![Architecture](https://raw.githubusercontent.com/maxlwang/mtl-sos-recon/master/models/mtl_model2.png)
 
 ### Organization
 The repository is organized as follows:
