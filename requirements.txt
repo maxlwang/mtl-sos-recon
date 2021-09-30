@@ -1,0 +1,9 @@
+tensorflow==2.4
+tensorflow-addons
+keras
+pillow
+jupyter
+matplotlib
+pydot
+environment_kernels
+gdown

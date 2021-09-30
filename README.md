@@ -8,7 +8,8 @@ The repository is organized as follows:
 
 - dataset_generation contains 
   - binroots: binary masks of root images
-  - k-Wave_sims: k-wave toolbox, code and functions for SoS map generation and image reconstruction   
+  - k-Wave_sims: code for k-wave simulations    
+  - Functions: functions for SoS map generation and image reconstruction
   - training_data_preprocessing: crop, normalize and save training data as images
 
 - models contains
@@ -16,8 +17,6 @@ The repository is organized as follows:
   - baseline: jupyter notebook for vaniila U-Net implementation
   - simo: jupyter notebook for multi-task network with a-scan input
   - mimo: jupyter notebook for multi-input, multi-task network with a-scan + constant SoS image input
-
-- plotting_analysis contain scripts for analyzing train/val/test errors and comparing network outputs to ground-truth 
 
 ### Dependencies
 Listed in the requirements.txt file
